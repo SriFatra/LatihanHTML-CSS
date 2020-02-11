@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    font-family: Arial;
+    font-size: 18px;
+    width: 93%;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    float: right;
+    width: 120px;
+    margin: 20px;
+}
+
+table {
+    margin: auto;
+    background-color: aliceblue;
+    margin: 50px;
+    font-size: 20px;
+}
+
+th {
+    background-color: aquamarine;
+}
